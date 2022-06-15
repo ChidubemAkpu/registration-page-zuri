@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background:url("bg-intro-desktop.png"), hsl(0,100%,74%);
+    background:url("images/bg-intro-desktop.png"), hsl(0,100%,74%);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "Poppins";
